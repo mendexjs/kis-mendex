@@ -1,1 +1,5 @@
-# kis-mendex
+# README #
+npm install &&
+npm run build &&
+npm run start
+###
